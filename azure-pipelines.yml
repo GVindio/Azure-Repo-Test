@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  azure-pipeline-lab
 
 steps:
 - task: ArchiveFiles@2
